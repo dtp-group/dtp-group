@@ -23,7 +23,7 @@ author_profile: false
 | Cong Shen | Ph.D student              | [iNSPIRE](https://inspirehep.net/authors/1945377?ui-citation-summary=true)|
 | Sai Sasank Chava      | Ph.D student  | [iNSPIRE](https://inspirehep.net/authors/2776660?ui-citation-summary=true)|
 | Yaxi ("Sissi") Chen   | MS. student   | [iNSPIRE](https://inspirehep.net/authors/3080235?ui-citation-summary=true)|
-| Zixuan ("John") Zhang | MS. student   | |
+| Zixuan ("John") Zhang | MS. student   | [John's Blog](https://johnz14.wordpress.com/)|
 
 ## Previous Group Members
 
