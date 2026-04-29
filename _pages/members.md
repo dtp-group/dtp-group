@@ -48,6 +48,7 @@ author_profile: false
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
 | Shu-Heng Shao | MIT | 7-10 May 2026|  [MIT](https://physics.mit.edu/faculty/shu-heng-shao/)|
 | Dan Green | UCSD  | 30 April - 2 May 2026|  [UCSD](https://drgreen.physics.ucsd.edu)|
+| Callum Jones | University of Arizona | 6 - 10 April 2026 | [UofAz](https://physics.arizona.edu/person/callum-jones) |
 | Justin Berman | Univrsity of Michigan |  15 - 17 Feb 2026  | [iNSPIRE](https://inspirehep.net/authors/2715220?ui-citation-summary=true) |
 | Giulia Isabella | UCLA | 8 - 12 Feb 2026 | [iNSPIRE](https://inspirehep.net/authors/1784014?ui-citation-summary=true) |
 | Radu Roiban | PSU | 28 - 31 May 2025 | [PennState](https://science.psu.edu/physics/people/rsr10)  |
